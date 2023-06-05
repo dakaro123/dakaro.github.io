@@ -2,10 +2,14 @@ body {
   max-width: 800px;
   margin: auto;
   background-color: rgb(0, 0, 0);
-  border: 30px;
-  border-color: rgba(186, 6, 6, 0.776);
+  border-width: 10px;
+  border-color: rgba(255, 0, 0, 0.776);
+  border-style: double;
+  border-block-start-width: thick;
   }
-  h1 {
+
+
+  .h1 {
     text-align: center;
     color: white;
   }
