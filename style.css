@@ -3,8 +3,11 @@ body {
   margin: auto;
   }
   h1 {
+
     text-align: center;
   }
-  p {
+  
+  .text {
+    background-color: whitesmoke;
     text-align: justify;
   }
