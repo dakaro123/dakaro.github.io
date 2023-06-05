@@ -10,4 +10,6 @@ body {
   .text {
     background-color: whitesmoke;
     text-align: justify;
+    font-size: 12pt;
+    font-family: 'Times New Roman', Times, serif;
   }
