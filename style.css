@@ -20,7 +20,7 @@ body {
 
   .AI {
     display: block;
-    margin-left: auto;
+    margin-left: 90px;
     margin-right: auto;
-    width: 50%;
+    width: 50%;    
   }
