@@ -1,9 +1,9 @@
 body {
   max-width: 800px;
   margin: auto;
-  background-color: rgb(35, 34, 34);
-  border: 25cm;
-  border-color: rgba(72, 70, 70, 0.776);
+  background-color: rgb(0, 0, 0);
+  border: 30px;
+  border-color: rgba(255, 0, 0, 0.776);
   }
   h1 {
     text-align: center;
@@ -16,9 +16,4 @@ body {
     font-size: 12pt;
     font-family: 'Times New Roman', Times, serif;
     color: white;
-  }
-
-  .AI {
-    width: 100%;
-    height: auto;
   }
