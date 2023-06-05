@@ -1,9 +1,9 @@
 body {
   max-width: 800px;
   margin: auto;
-  background-color: grey;
+  background-color: rgb(35, 34, 34);
   border: 10cm;
-  border-color: darkgray;
+  border-color: rgba(36, 36, 36, 0.823);
   }
   h1 {
     text-align: center;
@@ -15,4 +15,5 @@ body {
     text-align: justify;
     font-size: 12pt;
     font-family: 'Times New Roman', Times, serif;
+    color: white;
   }
