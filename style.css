@@ -19,9 +19,6 @@ body {
   }
 
   .AI {
-    display: block;
-    margin-left: 90px;
-    margin-right: auto;
-    width: 50%;    
-    size-adjust: 20px;
+    width: 100%;
+    height: auto;
   }
