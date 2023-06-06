@@ -4,7 +4,21 @@ body {
 .head{
   color: white;
   text-align: center;
+
 }
+
+.but{
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+.but:hover{
+  background-color: #555;
+}
+
   .text {
     text-align: justify;
     font-size: 12pt;
