@@ -7,16 +7,28 @@ body {
 
 }
 
-.but{
+.but {
   display: inline-block;
   padding: 10px 20px;
-  background-color: #333;
-  color: #fff;
+  background-color:transparent;
+  color: #a30000;
   text-decoration: none;
   border-radius: 5px;
 }
-.but:hover{
+.but:hover {
   background-color: #555;
+}
+
+.but:link {
+  color: #a30000;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.but:visited {
+  color: #a30000;
+  background-color: transparent;
+  text-decoration: none;
 }
 
   .text {
