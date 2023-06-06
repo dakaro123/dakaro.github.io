@@ -1,23 +1,30 @@
 body {
-  max-width: 800px;
-  margin: auto;
-  background-color: rgb(0, 0, 0);
-  padding: 40px;
-  border:  	rgb(255, 49, 49);
-  border-style: solid;
-  border-width: 8px;
-  }
+  margin: 0;
+  padding: 0;
+  background-image: url(https://media.discordapp.net/attachments/1030249920394952837/1115358454698229871/2023_STPI_Rirkrit_Tiravanija_We_Don_t_Recognize_What_We_Don_t_See.jpg?width=1082&height=676);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: -1;
+}
 
 
-  .heading {
-    text-align: center;
-    color: white;
-  }
 
   .text {
 
-    text-align: justify;
+    text-align: center;
     font-size: 12pt;
     font-family: 'Times New Roman', Times, serif;
     color: white;
+    max-width: 800px;
+    margin: auto;
+    background-color: rgb(0, 0, 0);
+    padding: 40px;
+    border:  	rgb(255, 49, 49);
+    border-style: solid;
+    border-width: 8px;
   }
