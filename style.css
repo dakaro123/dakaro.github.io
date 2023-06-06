@@ -1,9 +1,12 @@
 body {
   background-image: url(https://cdn.discordapp.com/attachments/1030249920394952837/1115713217117814854/cpu-red.png);
 }
-
+.head{
+  color: white;
+  text-align: center;
+}
   .text {
-    text-align: center;
+    text-align: justify;
     font-size: 12pt;
     font-family: 'Times New Roman', Times, serif;
     color: white;
